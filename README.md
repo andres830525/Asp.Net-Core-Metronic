@@ -125,7 +125,7 @@ GPL-3.0 license
 ---
 
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> GitHub [@andres830525](https://github.com/andres830525) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
 
 
