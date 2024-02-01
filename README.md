@@ -3,7 +3,7 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://www.contacter-sav.org/wp-content/uploads/2020/06/metronic.jpg" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  Metronic
   <br>
 </h1>
 
