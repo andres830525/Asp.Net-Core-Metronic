@@ -4,7 +4,7 @@
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="
 <h1 align="center">
   <br>
-  <a <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a <img src="https://th.bing.com/th/id/R.a9c719a807e274afdb842e1d109573b7?rik=mzOZ%2fFUhMkVNvg&pid=ImgRaw&r=0" alt="Markdownify" width="200"></a>
   <br>
   Metronic
   <br>
