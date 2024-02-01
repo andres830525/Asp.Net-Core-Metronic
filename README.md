@@ -42,16 +42,22 @@ Ahorre miles de horas y dinero para su próximo proyecto de Asp.net-core con un 
 
 Instale la última versión de .NET, Yarn o NPM y utilice nuestras herramientas de compilación personalizadas Gulp o Webapck para poner en marcha su proyecto literalmente en cuestión de minutos.
 Empezar
-Este documento tiene como objetivo ejecutar su proyecto CORE MVC basado en Metronic ASP.NET en solo 5 minutos. Se supone que ya compró Metronic y lo descargó de Metronic Downloads.
+Este documento tiene como objetivo ejecutar su proyecto CORE MVC basado en Metronic ASP.NET en solo 5 minutos. 
+
 Requisitos previos
+
 Esta es la tecnología y los lenguajes necesarios para empezar:
 SDK de .NET 8.0+
 Node.js 16.15.0+
 Hilo 1.12.18+
+
 Características HTML
+
 El kit de inicio incluye solo el código fuente del tema (sass, js, medios, fuentes e iconos) de la versión HTML, herramientas de compilación (Gulp, Webpack), Integración de vistas de diseño y páginas generales (índice, autenticación, error).
 Para usar cualquier característica que se muestra en la versión HTML, simplemente copie y pegue el código HTML e incluya los activos requeridos (css, js) usando la API del tema.
+
 Construir activos
+
 Antes de ejecutar la aplicación, necesitamos construir activos de tema:
 Inicie una ventana o terminal del símbolo del sistema y cambie el directorio a Starterkit/_keenthemes/tools
 cd Starterkit/_keenthemes/tools
@@ -67,7 +73,9 @@ Para webpack, use el comando:
 npm run build --demo1
 En este momento, las demostraciones compatibles son y . demo1demo30
 Nota en el archivo. Este paso es muy importante para Webpack en la plantilla Metronic. El valor predeterminado funciona para Gulp. Para que funcione para Webpack, debe modificar y eliminar archivos . De lo contrario, provocará un error de compilación al ejecutar el comando de compilación. package.jsonpackage.jsontools/package.json"type": "module"
+
 Ejecución de la aplicación
+
 Para ejecutar la aplicación, navegue por el mensaje a la carpeta y ejecute el comando, este comando escuchará los cambios y los recargará en caliente. Mantenga su mensaje en ejecución de forma predeterminada la aplicación se sirve en https://localhost:7094. Starterkitdotnet watch
 dotnet watch
 
