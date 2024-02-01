@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#Instalación-rápidae">Instalación rápida</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
@@ -38,7 +38,7 @@
 
 Ahorre miles de horas y dinero para su próximo proyecto de Asp.net-core con un potente kit de inicio basado en nuestro tema Metronic.
 
-## How To Use
+## Instalación rápida
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
