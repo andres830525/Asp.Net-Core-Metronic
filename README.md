@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#Instalación-rápidae">Instalación rápida</a> •
+  <a href="#Instalación-rápida">Instalación rápida</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
