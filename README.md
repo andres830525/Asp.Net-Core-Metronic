@@ -32,7 +32,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://downloadly.ir/wp-content/uploads/2020/01/Metronic.jpg)
+![screenshot](https://lvivity.com/wp-content/uploads/2020/01/metronic-template.jpg)
 
 ## Starter Kit
 
