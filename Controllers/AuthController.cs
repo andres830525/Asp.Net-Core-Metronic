@@ -13,7 +13,7 @@ public class AuthController : Controller
         _logger = logger;
         _theme = theme;
     }
-	
+	[HttpGet("/")]
 	[HttpGet("/signin")]
     public IActionResult SignIn()
     {
